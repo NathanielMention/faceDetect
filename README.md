@@ -1,4 +1,4 @@
-# FaceMatch
+# FaceDetect
 
 ## Table of contents
 
